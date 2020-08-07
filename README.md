@@ -20,4 +20,4 @@ In this talk, we will describe how to hide persistence in these obscure memory c
 - ASMediaFWDemo
   - Code showing downloading and executing shellcode hidden inside ASMedia firmware.
 - SuperSneakyExec
-  - Example code in C# to download and execute shellcode from the internet (0/72 on VT at time of release)
+  - Example code in C# to download and execute shellcode from the internet 
