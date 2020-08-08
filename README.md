@@ -1,4 +1,5 @@
-# DEF CON 28 Safe mode talk - Bytes In Disguise (⌐■_■)
+# Bytes In Disguise (⌐■_■)
+# DEF CON 28 Safe mode talk
 Non-Volatile Memory. EVERY computer has it, from the chip that stores your BIOS to the controller that runs your laptop trackpad and even your new fancy USB-C monitor. These small nooks of storage can be (ab)used by anyone to store data or code without causing any side effects and none would be the wiser. We will show you more than one example of how this is possible and walk through everything you need to know to do it, too.
 
 In this talk, we will describe how to hide persistence in these obscure memory chips using simple tools that we are releasing as open source. We will show multiple ways to accomplish this without detection. On the defensive front, we’ll discuss what can be done to detect and lock
