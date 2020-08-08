@@ -22,3 +22,11 @@ In this talk, we will describe how to hide persistence in these obscure memory c
   - Code showing downloading and executing shellcode hidden inside ASMedia firmware.
 - SuperSneakyExec
   - Example code in C# to download and execute shellcode from the internet 
+- PMXWrapper
+  - Exmple code in C# of how to use the PMX driver and it's accompanying dlls 
+    - Arbitrary IO read and write.
+    - Mapping and umpapping physical memory.
+    - Code for SPI Hardware Sequencing to read from SPI using Intel SPI Controllers.
+    - Read Model Specific Registers
+    - Read Control Registers
+    - Etc...
